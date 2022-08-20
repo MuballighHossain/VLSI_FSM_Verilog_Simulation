@@ -1,0 +1,10 @@
+|assignment2B
+clk => ~NO_FANOUT~
+rstn => ~NO_FANOUT~
+w[0] => ~NO_FANOUT~
+w[1] => ~NO_FANOUT~
+Q <= <GND>
+c[0] <= <GND>
+c[1] <= <GND>
+
+
