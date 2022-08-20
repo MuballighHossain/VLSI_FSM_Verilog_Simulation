@@ -1,0 +1,8 @@
+
+State Machine - |assignment2A|o
+Name o.D o.C o.B o.A o.E 
+o.A 0 0 0 0 0 
+o.B 0 0 1 1 0 
+o.C 0 1 0 1 0 
+o.D 1 0 0 1 0 
+o.E 0 0 0 1 1 
